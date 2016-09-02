@@ -1,0 +1,16 @@
+﻿Build started 8/28/2016 12:30:54 PM.
+     1>Project "D:\yun\kb_FPGA_c_pcb_m_all\method\60. 分治-循环赛日程表\60. 分治-循环赛日程表.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         F:\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "1.循环赛日程表非递归.cpp" "2.递归.cpp"
+         2.递归.cpp
+         1.循环赛日程表非递归.cpp
+         Generating Code...
+       Link:
+         F:\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\yun\kb_FPGA_c_pcb_m_all\method\Debug\60. 分治-循环赛日程表.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\yun\kb_FPGA_c_pcb_m_all\method\Debug\60. 分治-循环赛日程表.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\yun\kb_FPGA_c_pcb_m_all\method\Debug\60. 分治-循环赛日程表.lib" /MACHINE:X86 "Debug\1.循环赛日程表非递归.obj"
+         "Debug\2.递归.obj"
+         60. 分治-循环赛日程表.vcxproj -> D:\yun\kb_FPGA_c_pcb_m_all\method\Debug\60. 分治-循环赛日程表.exe
+     1>Done Building Project "D:\yun\kb_FPGA_c_pcb_m_all\method\60. 分治-循环赛日程表\60. 分治-循环赛日程表.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.06

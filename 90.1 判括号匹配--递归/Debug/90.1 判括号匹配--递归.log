@@ -1,0 +1,15 @@
+﻿Build started 8/25/2016 12:57:40 PM.
+     1>Project "D:\yun\kb_FPGA_c_pcb_m_all\method\90.1 判括号匹配--递归\90.1 判括号匹配--递归.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         F:\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "2.递归实现.cpp"
+         2.递归实现.cpp
+     1>d:\yun\kb_fpga_c_pcb_m_all\method\90.1 判括号匹配--递归\2.递归实现.cpp(50): warning C4715: 'rf' : not all control paths return a value
+       Link:
+         F:\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\yun\kb_FPGA_c_pcb_m_all\method\Debug\90.1 判括号匹配--递归.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\yun\kb_FPGA_c_pcb_m_all\method\Debug\90.1 判括号匹配--递归.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\yun\kb_FPGA_c_pcb_m_all\method\Debug\90.1 判括号匹配--递归.lib" /MACHINE:X86 "Debug\1.栈判定.obj"
+         "Debug\2.递归实现.obj"
+         90.1 判括号匹配--递归.vcxproj -> D:\yun\kb_FPGA_c_pcb_m_all\method\Debug\90.1 判括号匹配--递归.exe
+     1>Done Building Project "D:\yun\kb_FPGA_c_pcb_m_all\method\90.1 判括号匹配--递归\90.1 判括号匹配--递归.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.70
