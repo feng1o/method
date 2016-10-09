@@ -1,3 +1,4 @@
+/*
 int find(int *parent, int f){
 	while(parent[f] > 0)
 	{
@@ -26,7 +27,7 @@ void MiniSapnTree_kruskal(Mgrap G){
 		}
 	}
 }
-
+*/
 /* lizi
 #define _CRT_SECURE_NO_WARNINGS 
 #include<iostream>

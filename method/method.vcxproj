@@ -11,7 +11,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="prim.cpp" />
+    <ClCompile Include="sourc2.cpp" />
     <ClCompile Include="Source22.cpp" />
+    <ClCompile Include="Source33.cpp" />
+    <ClCompile Include="二分.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{0607F5D5-1D65-4CAA-A10E-A45440ADFFD2}</ProjectGuid>

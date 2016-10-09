@@ -1,3 +1,4 @@
+#if 0
 //http://www.nowcoder.com/practice/8380c8cf28954a188362206b1991b5d6?tpId=8&tqId=11038&rp=3&ru=/ta/cracking-the-coding-interview&qru=/ta/cracking-the-coding-interview/question-ranking
 
 class Permutation {
@@ -42,3 +43,4 @@ public:
 		return svec;
 	}
 };
+#endif

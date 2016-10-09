@@ -81,6 +81,7 @@
     <ClCompile Include="..\..\Visual Studio 2013\data_struct1\alg-递归全排列\1.无重字符全排列.cpp" />
     <ClCompile Include="..\..\Visual Studio 2013\data_struct1\alg-递归全排列\2.有重复的及位置问题.cpp" />
     <ClCompile Include="3.通过返回结果.cpp" />
+    <ClCompile Include="有重复情况.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

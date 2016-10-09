@@ -80,6 +80,7 @@
   <ItemGroup>
     <ClCompile Include="1.01背包.cpp" />
     <ClCompile Include="2.01背包优化.cpp" />
+    <ClCompile Include="3.有主附件的背包问题.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

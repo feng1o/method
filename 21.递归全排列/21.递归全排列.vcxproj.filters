@@ -24,5 +24,8 @@
     <ClCompile Include="3.通过返回结果.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="有重复情况.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

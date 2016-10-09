@@ -21,5 +21,8 @@
     <ClCompile Include="2.01背包优化.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="3.有主附件的背包问题.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
